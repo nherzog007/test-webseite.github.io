@@ -1,0 +1,49 @@
+body{
+   font-family: calibri; 
+   background-color: rgb(212, 212, 212);
+}
+#NavBar{
+    padding: 20px;
+    margin: 0;
+    background-color: rgb(90, 90, 90);
+}
+#ImageTop{
+    margin: 0;
+}
+#about{
+    margin: 0;
+    background-color: rgb(177, 177, 177);
+}
+
+table, td, th {  
+    border: 1px solid rgb(163, 163, 163) ;
+    text-align: left;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td {
+    padding: 15px;
+  }
+
+#nothing{
+    background-color: rgb(212, 212, 212);
+    border: rgb(212, 212, 212);
+    width: 40%;
+}
+#nothing2{
+    background-color: rgb(212, 212, 212);
+    border: rgb(212, 212, 212);
+    width: 30%;
+}
+#nothing3{
+    background-color: rgb(212, 212, 212);
+    border: rgb(212, 212, 212);
+    width: 10%;
+}
+.fonts-text{
+    font-size: larger;
+}
